@@ -1,0 +1,6 @@
+Object Oriented Programming Lab ICT 2142     Lab Evaluation-CCEB1        Date:30/08/2024
+
+Create a class NumArray containing 1D integer array of size 10. Input the values and count and display the number of odd numbers, no. of zeros and no. of even numbers in the array by using the methods even(), odd(), zero(). Use for each loop.
+
+Creating class and input values – 1, Defining methods and method call – 1M, using for each loop-1M, main method and display the result – 1M
+
